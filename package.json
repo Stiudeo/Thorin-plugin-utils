@@ -1,0 +1,19 @@
+{
+  "name": "thorin-plugin-utils",
+  "author": "Stiudeo",
+  "version": "1.0.1",
+  "dependencies": {
+    "parse-domain": "^0.2.1"
+  },
+  "description": "Thorin.js extended utilities",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stiudeo/Thorin-plugin-utils"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Stiudeo/Thorin-plugin-utils/issues"
+  }
+}
